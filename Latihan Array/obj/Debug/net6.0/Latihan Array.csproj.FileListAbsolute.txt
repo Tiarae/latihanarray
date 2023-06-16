@@ -1,0 +1,15 @@
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\bin\Debug\net6.0\Latihan Array.exe
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\bin\Debug\net6.0\Latihan Array.deps.json
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\bin\Debug\net6.0\Latihan Array.runtimeconfig.json
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\bin\Debug\net6.0\Latihan Array.dll
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\bin\Debug\net6.0\Latihan Array.pdb
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.AssemblyInfo.cs
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.dll
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\refint\Latihan Array.dll
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.pdb
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\Latihan Array.genruntimeconfig.cache
+C:\Users\ASUS ROG\source\repos\Latihan Array\Latihan Array\obj\Debug\net6.0\ref\Latihan Array.dll
